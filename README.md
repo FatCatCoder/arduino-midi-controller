@@ -20,7 +20,7 @@ When composing orchestral tracks the use of slide pots is crucial to emulating t
 
 
 ## Wiring
-<img src="./wiring.JPG" width="650" height="426"/>
+<img src="./wiring.JPG" style="max-width: 700px !important; width: 100vw;" />
 
 
 ### Notes
